@@ -1,0 +1,13 @@
+//
+//  AUTPresentationsStatic.xcconfig
+//  AUTPresentations
+//
+//  Created by Eric Horacek on 6/20/17.
+//  Copyright © 2017 Automatic Labs. All rights reserved.
+//
+
+#include "AUTPresentations.xcconfig"
+
+// This setting determines the format of the produced binary and how it can be
+// linked when building other binaries.
+MACH_O_TYPE = staticlib

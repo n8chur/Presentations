@@ -1,0 +1,12 @@
+//
+//  AUTPresentationsTestsStatic.xcconfig
+//  AUTPresentations
+//
+//  Created by Eric Horacek on 6/20/17.
+//  Copyright © 2017 Automatic Labs. All rights reserved.
+//
+
+#include "AUTPresentationsTests.xcconfig"
+
+// Options defined in this setting are passed to invocations of the linker.
+OTHER_LDFLAGS = $(inherited) -ObjC -w

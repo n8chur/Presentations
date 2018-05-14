@@ -1,0 +1,9 @@
+# Frameworks
+github "automatic/AUTTestKit" ~> 1.0
+
+# Non-frameworks
+github "automatic/AUTExtObjC" "master"
+github "jspahrsummers/xcconfigs"
+
+# Example
+github "automatic/Routing" ~> 0.1

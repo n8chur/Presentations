@@ -1,0 +1,18 @@
+//
+//  AUTPresentationsTests.pch
+//  AUTPresentationsTests
+//
+//  Created by Westin Newell on 6/15/17.
+//  Copyright (c) 2017 Automatic Labs. All rights reserved.
+//
+
+#import <AUTPresentations/AUTPresentations.h>
+
+#import <ReactiveObjC/ReactiveObjC.h>
+
+#import <Specta/Specta.h>
+#import <Expecta/Expecta.h>
+#import <AUTTestKit/AUTTestKit.h>
+#import <Nocilla/Nocilla.h>
+
+#import "AUTExtObjC.h"

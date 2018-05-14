@@ -1,0 +1,2 @@
+github "Automatic/AUTExtReactiveCocoa"
+github "ReactiveCocoa/ReactiveObjC" ~> 3.0
