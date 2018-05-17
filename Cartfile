@@ -1,2 +1,2 @@
-github "Automatic/AUTExtReactiveCocoa"
+github "Automatic/ExtReactiveObjC"
 github "ReactiveCocoa/ReactiveObjC" ~> 3.0
